@@ -1,4 +1,4 @@
-﻿using System.Text;
+using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 
@@ -15,7 +15,7 @@ public abstract class TestCaseBase
 
         protected abstract IWebDriver InitDriver();
 
-
+//Comentario OSCAR YESID VANEGAS
         public TestCaseBase()
         {
             if (driver == null)
