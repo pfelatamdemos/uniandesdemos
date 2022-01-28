@@ -107,4 +107,6 @@ public abstract class TestCaseBase
             driver.Manage().Window.Maximize();
         }
 
+        // este es un nuevo comentario
+
 }
