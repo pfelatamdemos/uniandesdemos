@@ -15,7 +15,7 @@ public abstract class TestCaseBase
 
         protected abstract IWebDriver InitDriver();
 
-
+//Comentario ovasquez@microsoft.com
         public TestCaseBase()
         {
             if (driver == null)
