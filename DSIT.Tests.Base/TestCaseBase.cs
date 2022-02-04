@@ -4,6 +4,7 @@ using OpenQA.Selenium;
 
 namespace DSIT.Tests.Base;
 //Cambio desde branch feaureovasquez
+//Cambio desde branch feaurel.herreno
 [TestClass]
 public abstract class TestCaseBase
 {
