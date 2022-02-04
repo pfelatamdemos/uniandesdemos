@@ -26,3 +26,6 @@ public class PlantillaTestSobreNosotrosUnitTest: TestCaseBase
        
         base.ClickElementByLinkText("Quienes Somos");
         base.ClickElementByLinkText("La Facultad");
+
+
+          //Edicion desde visual studio code2
