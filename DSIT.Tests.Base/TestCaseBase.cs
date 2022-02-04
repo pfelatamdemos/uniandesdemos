@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 
 namespace DSIT.Tests.Base;
-
+//Cambio desde branch feaureovasquez
 [TestClass]
 public abstract class TestCaseBase
 {
@@ -58,6 +58,7 @@ public abstract class TestCaseBase
             driver.Navigate().GoToUrl(url);
         }
 
+        // Modifcacion por zelio999
         public void MouseOverPartialByLinkText(string partialText)
         {
             var mouseOverAction = new OpenQA.Selenium.Interactions.Actions(driver);
