@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
 
 namespace DSIT.Tests.Base;
-
+//Cambio desde branch feaureovasquez
 [TestClass]
 public abstract class TestCaseBase
 {
