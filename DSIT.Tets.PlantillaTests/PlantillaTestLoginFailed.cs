@@ -37,7 +37,7 @@ public class PlantillaTestLoginFailed : TestCaseBase
 
         Assert.AreEqual(true, divMensajeError.Text.Contains("Lo sentimos. No reconocemos el nombre de usuario o la contraseña."), "El mensaje de error encontrado fue:" + divMensajeError.Text);
 
-
+        //Edicion desde visual studio code
     }
     [ClassCleanup]
     public static void CleanupClass()
